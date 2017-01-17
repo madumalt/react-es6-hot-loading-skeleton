@@ -1,4 +1,4 @@
-# Initial Skeleton for React ES6 with Hot-Loading Projects
+# Initial Skeleton for React ES6 Projects with Hot-Loading
 
 >
 
